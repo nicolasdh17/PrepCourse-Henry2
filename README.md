@@ -1,2 +1,1 @@
-# PrepCourse-Henry2
-Este es el segundo repositorio de prueba
+Este rpoyecto es una prueba de como clonar un repositorio desde Github y clonarlo a mi computadora
